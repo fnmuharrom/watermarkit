@@ -2,7 +2,7 @@
 
 Welcome to **WatermarkIt**, a simple and intuitive tool for adding customizable watermarks to your images directly in the browser. Built with Next.js 15, React 19, and TypeScript.
 
-![WatermarkIt Demo](public/images/screenshot1.png)
+![WatermarkIt Demo](public/images/screenshot.jpg)
 
 ## 🌟 Features
 
