@@ -33,7 +33,7 @@ Welcome to **WatermarkIt**, a simple and intuitive tool for adding customizable 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/watermarkit.git
+    git clone https://github.com/fnmuharrom/watermarkit.git
     cd watermarkit
     ```
 
